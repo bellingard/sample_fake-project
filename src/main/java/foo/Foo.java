@@ -10,7 +10,14 @@ public class Foo {
     public static int times(int a, int b) {
     	// Use Simplest to introduce a dependency
     	int i = Simplest.add(5, 6);
-        return a * b;  
+      return a * b;
+    }
+
+    public static int boum() {
+    	// Use Simplest to introduce a dependency
+    	int i = Simplest.add(5, 6);
+      // TODO not really good, is it?
+      return i;
     }
 
 }
