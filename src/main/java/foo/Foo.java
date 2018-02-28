@@ -7,7 +7,7 @@ import bar.Simplest;
  */
 public class Foo {
 
-    private int m;
+    private static int m;
     
     public static int times(int a, int b) {
     	// Use Simplest to introduce a dependency
