@@ -3,7 +3,7 @@ package foo;
 import bar.Simplest;
 
 /**
- * Foo class
+ * Foo class :)
  */
 public class Foo {
 
