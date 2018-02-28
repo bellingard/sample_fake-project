@@ -13,7 +13,7 @@ public class Foo {
     	// Use Simplest to introduce a dependency
     	int i = Simplest.add(5, 6);
         
-        // pouet
+        // pouet!
         float f;
         
         return a * b * m;  
