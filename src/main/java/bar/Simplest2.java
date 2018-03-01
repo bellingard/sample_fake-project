@@ -4,6 +4,9 @@ public class Simplest2 {
 
 	public String bar;
 	
-	public static void foo() {}
+	// TODO bam
+	public static void foo() {
+		int a = 1;
+	}
 
 }
