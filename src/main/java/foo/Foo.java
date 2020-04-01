@@ -9,7 +9,7 @@ public class Foo {
 
     public int i;
     
-    public string BOO;
+    public String BOO;
 
     public static int times(int a, int b) {
     	// Use Simplest to introduce a dependency
