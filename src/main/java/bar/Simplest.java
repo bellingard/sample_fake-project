@@ -5,6 +5,8 @@ package bar;
  */
 public class Simplest {
 
+    public int AAA;
+    
     public static int add(int a, int b) {
     	System.out.println("");
         
