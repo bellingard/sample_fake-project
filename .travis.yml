@@ -2,7 +2,7 @@ language: java
 
 addons:
   sonarcloud:
-    organization: bellingard
+    organization: fab-test-travis
 
 script: 
   - mvn clean verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dmaven.test.failure.ignore=true
