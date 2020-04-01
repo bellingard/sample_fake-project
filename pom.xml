@@ -11,7 +11,7 @@
         <tag>HEAD</tag>
     </scm>
     <properties>
-        <sonar.projectKey>bellingard_sample_fake-project</sonar.projectKey>
+        <sonar.projectKey>fab-test-travis_sample_fake-project</sonar.projectKey>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
